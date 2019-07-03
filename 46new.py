@@ -1,2 +1,2 @@
 zc=int(input())
-print(xc+1)
+print(zc+1)
