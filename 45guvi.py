@@ -1,3 +1,3 @@
 d1=int(input())
-d=len(str(l1))
+d=len(str(d1))
 print(l)
